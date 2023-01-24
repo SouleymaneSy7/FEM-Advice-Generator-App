@@ -42,8 +42,8 @@ This is the Screenshot of the projects a made!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-app-9B-n8ziKGM)
+- Live Site URL: [Add live site URL here](https://fem-advice-generator-app-sigma.vercel.app/)
 
 ## My process
 
